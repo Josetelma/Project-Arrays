@@ -10,7 +10,7 @@
 </lo>
 
 <br>
-<img src="https://github.com/Josetelma/Project-Arrays/blob/main/img/For%20Each.PNG?raw=true/>
-<img src="https://github.com/Josetelma/Project-Arrays/blob/main/img/For%20Each.PNG?raw=true/>
-<img src="https://github.com/Josetelma/Project-Arrays/blob/main/img/For%20Each.PNG?raw=true/>
-<img src="https://github.com/Josetelma/Project-Arrays/blob/main/img/For%20Each.PNG?raw=true/>
+<img src="https://github.com/Josetelma/Project-Arrays/blob/main/img/For%20Each.PNG?raw=true"/>
+<img src="https://github.com/Josetelma/Project-Arrays/blob/main/img/Map.PNG?raw=true"/>
+<img src=""/>
+<img src=""/>
