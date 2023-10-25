@@ -10,4 +10,7 @@
 </lo>
 
 <br>
-<img src="https://github.com/Josetelma/Projeto-Convert-Money/blob/main/assets/img.PNG?raw=true"/>
+<img src="https://github.com/Josetelma/Project-Arrays/blob/main/img/For%20Each.PNG?raw=true/>
+<img src="https://github.com/Josetelma/Project-Arrays/blob/main/img/For%20Each.PNG?raw=true/>
+<img src="https://github.com/Josetelma/Project-Arrays/blob/main/img/For%20Each.PNG?raw=true/>
+<img src="https://github.com/Josetelma/Project-Arrays/blob/main/img/For%20Each.PNG?raw=true/>
