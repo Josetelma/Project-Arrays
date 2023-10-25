@@ -10,15 +10,14 @@
 </lo>
 
 <br>
-<h2>For Each</h2>
+<h2>FOR EACH</h2>
 <img src="https://github.com/Josetelma/Project-Arrays/blob/main/img/For%20Each.PNG?raw=true"/>
 <br
-  
-<h2>Map/h2>
+<h2>MAP/h2>
 <img src="https://github.com/Josetelma/Project-Arrays/blob/main/img/Map.PNG?raw=true"/>
 <br>
-<h2>Reduce</h2>
+<h2>REDUCE</h2>
 <img src="https://github.com/Josetelma/Project-Arrays/blob/main/img/Reduce.PNG?raw=true"/>
 <br>
-<h2>Filter</h2>
+<h2>FILTER</h2>
 <img src="https://github.com/Josetelma/Project-Arrays/blob/main/img/filter.PNG?raw=true"/>
