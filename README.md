@@ -1,12 +1,12 @@
-<h1>Projeto-Convert-Money</h1>
-<h2>Ampliando meu conhecimento por meio deste projeto realizado no Dev Club, fui capaz de desenvolver um aplicativo de gerenciamento de tarefas que capacita os usuários a adicionar, visualizar, filtrar e resumir suas tarefas de maneira eficaz.</h2>
+<h1>Projeto Arrays</h1>
+<h2>Durante a execução deste projeto no Dev Club, apliquei as técnicas do For Each, Map, Reduce e Filter, ampliando meu conhecimento e desenvolvendo um aplicativo de gerenciamento de tarefas que capacita os usuários a adicionar, visualizar, filtrar e resumir suas tarefas de forma eficaz.</h2>
 <br>
 <h2>Linguagens aplicadas</h2>
 <br>
 <lo>
-  <li>HTML: Utilizando HTML5, garantindo a semântica e acessibilidade apropriadas.</li>
-  <li>CSS: CSS3 para estilizar o projeto, tornando-o atraente e responsivo em diferentes tamanhos de tela.</li>
-  <li>JavaScript: Implementamos JavaScript para adicionar interatividade e funcionalidades dinâmicas.</li>
+  <li>Para este projeto apliquei  HTML5, a quinta versão da linguagem de marcação, para estabelecer uma estrutura semântica que assegura acessibilidade adequada. Com HTML5, pudemos criar uma base sólida para o projeto, garantindo que a informação fosse organizada de maneira coerente e facilmente interpretável por assistentes de leitura e dispositivos de acessibilidade.</li>
+  <li>Além disso, utilizei CSS3, a terceira versão do padrão de estilo, para estilizar o projeto. Com CSS3, fomos capazes de criar um design visualmente atraente e, ao mesmo tempo, tornar o projeto responsivo em uma variedade de dispositivos, garantindo que ele se adaptasse de forma elegante a diferentes tamanhos de tela e resoluções..</li>
+  <li>Adicionalmente, incorporei JavaScript para fornecer interatividade e funcionalidades dinâmicas. Isso possibilitou que os usuários interagissem com o aplicativo de maneira mais envolvente, como adicionar, visualizar, filtrar e resumir suas tarefas em tempo real. A inclusão do JavaScript resultou em uma experiência do usuário notavelmente melhorada, tornando o projeto mais dinâmico e eficaz.</li>
 </lo>
 
 <br>
